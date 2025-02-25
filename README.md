@@ -17,4 +17,4 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/django-weather-app.git
+   git clone https://github.com/kishore42421/django-weather-app.git
